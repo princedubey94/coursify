@@ -96,6 +96,8 @@ Welcome to **Coursify**, a comprehensive MERN stack application designed to prov
 !![image](https://github.com/user-attachments/assets/7fa45300-1eaf-4cf3-94f7-3801767ed0c9)
 !![image](https://github.com/user-attachments/assets/2240d089-9e6a-48e8-ae2b-4f02435547e9)
 !![image](https://github.com/user-attachments/assets/6725c4e7-ab3f-412d-90ff-a54f6dd0ae13)
+![image](https://github.com/user-attachments/assets/0df3c878-8ff3-488f-971b-9d57a1732211)
+
 
 
 
