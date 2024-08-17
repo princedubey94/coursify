@@ -34,7 +34,7 @@ Welcome to **Coursify**, a comprehensive MERN stack application designed to prov
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Coursify.git
+    git clone https://github.com/princedubey94/coursify.git
     ```
 2. **Navigate to the project directory**:
     ```bash
