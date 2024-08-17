@@ -3,3 +3,5 @@ access lectures, and enjoy a seamless learning experience. The app includes an a
 add new lectures, and analyze revenue with detailed charts. For secure and seamless payments, Razorpay is integrated into the platform. 
 The app also features robust authentication and authorization using JSON Web Token (JWT), along with password reset functionality.
 Media content, including images and videos, is efficiently managed through Multer and Cloudinary, ensuring a smooth and secure experience for users.
+ADMIN ID - princedubey685@gmail.com
+Password - 
