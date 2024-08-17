@@ -15,7 +15,7 @@ Welcome to **Coursify**, a comprehensive MERN stack application designed to prov
 
 ## ✨ Features
 
-- 🎓 **Discover Courses**: Browse and subscribe to a variety of courses.
+- 🎓 **Discover Courses**: Browse and subscribe to a variety of courses and cancel subscription also.
 - 📚 **Access Lectures**: Enjoy a seamless learning experience with easy access to lectures.
 - 🛠️ **Admin Dashboard**: Manage courses, add new lectures, and analyze revenue with detailed charts.
 - 💳 **Secure Payments**: Integrated Razorpay for secure and seamless payments.
@@ -25,18 +25,6 @@ Welcome to **Coursify**, a comprehensive MERN stack application designed to prov
 - 📧 **Email Notifications**: Send emails using Nodemailer.
 - 📊 **Data Visualization**: Illustrate data with Chart.js.
 
-## 📸 Screenshots
-
-!![image](https://github.com/user-attachments/assets/cfcd6b73-67de-449a-aef8-de371f23fd3a)
-
-!![image](https://github.com/user-attachments/assets/4240fe41-6d8a-4a35-a0b3-3a426130ff16)
-
-!![image](https://github.com/user-attachments/assets/787595e0-e01f-47af-80d4-64612c783d68)
-
-!![image](https://github.com/user-attachments/assets/b80660b4-184b-4e6b-a64b-9d33f46ad4c0)
-![image](https://github.com/user-attachments/assets/de5a0a38-2594-459d-ac15-f3c2e8d4b757)
-!![image](https://github.com/user-attachments/assets/009feda9-dbae-4232-afe7-1ea513c22ebc)
-!![image](https://github.com/user-attachments/assets/97a755be-9699-4837-b9db-b5545527507a)
 
 
 
@@ -88,7 +76,33 @@ Welcome to **Coursify**, a comprehensive MERN stack application designed to prov
     ```bash
     email-id:princedubey685@gmail.com
     password:Princecoursify123
-    ```    
+    ```
+## 📸 Screenshots
+
+!![image](https://github.com/user-attachments/assets/cfcd6b73-67de-449a-aef8-de371f23fd3a)
+
+!![image](https://github.com/user-attachments/assets/4240fe41-6d8a-4a35-a0b3-3a426130ff16)
+
+!![image](https://github.com/user-attachments/assets/787595e0-e01f-47af-80d4-64612c783d68)
+
+!![image](https://github.com/user-attachments/assets/b80660b4-184b-4e6b-a64b-9d33f46ad4c0)
+![image](https://github.com/user-attachments/assets/de5a0a38-2594-459d-ac15-f3c2e8d4b757)
+!![image](https://github.com/user-attachments/assets/009feda9-dbae-4232-afe7-1ea513c22ebc)
+!![image](https://github.com/user-attachments/assets/97a755be-9699-4837-b9db-b5545527507a)
+!![image](https://github.com/user-attachments/assets/4daaabe4-ffa1-42c4-a5cf-ef18ce758b2e)
+!![image](https://github.com/user-attachments/assets/8837d553-a277-402d-b4d4-f4c876fa1831)
+!![image](https://github.com/user-attachments/assets/6bcd9e0a-8562-4a2a-9db0-fe85485c1bb7)
+!![image](https://github.com/user-attachments/assets/b51de523-8308-401a-8ef1-f45f33f5d3ef)
+!![image](https://github.com/user-attachments/assets/7fa45300-1eaf-4cf3-94f7-3801767ed0c9)
+!![image](https://github.com/user-attachments/assets/2240d089-9e6a-48e8-ae2b-4f02435547e9)
+!![image](https://github.com/user-attachments/assets/6725c4e7-ab3f-412d-90ff-a54f6dd0ae13)
+
+
+
+
+
+
+
 
 ## 🤝 Contributing
 
