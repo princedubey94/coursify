@@ -46,7 +46,7 @@ const DisplayLectures = () => {
           <div className="space-y-5 w-[28rem] p-2 rounded-lg shadow-[0_0_10px_black]">
             <video
               className="object-fill rounded-tl-lg rounded-tr-lg w-full"
-              src={lectures.length && lectures[currentVideoIndex]?.lecture?.secure_url}
+              src={lectures[currentVideoIndex]?.lecture?.secure_url}
               controls
               disablePictureInPicture
               muted
