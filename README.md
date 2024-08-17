@@ -1,7 +1,3 @@
-Here's an updated description:
-
----
-
 **Coursify** is a comprehensive MERN stack application that allows students to discover and subscribe to various courses, 
 access lectures, and enjoy a seamless learning experience. The app includes an admin dashboard where administrators can manage courses, 
 add new lectures, and analyze revenue with detailed charts. For secure and seamless payments, Razorpay is integrated into the platform. 
