@@ -4,4 +4,4 @@ add new lectures, and analyze revenue with detailed charts. For secure and seaml
 The app also features robust authentication and authorization using JSON Web Token (JWT), along with password reset functionality.
 Media content, including images and videos, is efficiently managed through Multer and Cloudinary, ensuring a smooth and secure experience for users.
 ADMIN ID - princedubey685@gmail.com
-Password - 
+Password - Princecoursify123
